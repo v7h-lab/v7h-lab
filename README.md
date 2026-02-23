@@ -8,3 +8,6 @@ I'm a product designer turned builder, working on apps using Cursor, Antigravity
 - 🤖 Developing **multi-agent systems** using **Google ADK**
 - 🚀 Advising early-stage startups on **Design Strategy**
 - 🤝 Scaling design at **The AI Collective** (non-profit community)
+
+### Recent Hackathon wins
+- 🏆 2 x DeveloperWeek 2026 Hackathon
