@@ -11,3 +11,4 @@ I'm a product designer turned builder, working on apps using Cursor, Antigravity
 
 ### Recent Hackathon wins
 - 🏆 2 x DeveloperWeek 2026 Hackathon
+- 🏆 2nd Place - Nvidia GTC 2026 AI short film Hacakthon
