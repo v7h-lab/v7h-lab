@@ -1,6 +1,6 @@
 Hi, I'm Venkatesh 👋
 
-I'm a product designer turned builder. Currently advising early stage startups on design strategy and helping scale design at The AI collective - non profit design community.
+I'm a product designer turned builder. Currently advising early stage startups on design strategy and helping scale design at The AI collective - non profit builder community.
 
 ### What I work on
 
